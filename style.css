@@ -1,0 +1,25 @@
+body { font-family: Arial; margin: 2em; } h1,h2,h3,h4,h5,h6 { font-family: Calibri, Helvetica; } 
+table { border-collapse: collapse; border: 2px solid #aaa; }
+td { padding: 6px; vertical-align: top; border: 1px solid #bbb; border-right: 1px solid #ddd; border-left: 1px solid #ddd; font-family: Arial; }
+thead { font-weight: bold; }
+thead td { white-space: nowrap; }
+hr { margin: 6px 0; height: 0; border: 0; border-bottom: 1px solid #ddd; }
+.id { font-size: 200%; font-weight: bold; }
+.label { font-size: 70%; }
+.flag0 { background-color: #fcb; }
+.flag1 { background-color: #feb; }
+.flag2 { background-color: #cfb; }
+.flagged { background-color: #dadada; }
+.empty { background: url(hash.gif); }
+.text { height: 36px; width: 270px; font-family: Arial, sans-serif; }
+.message { margin: 1em 0; color: green; font-style: italic; }
+.unit { margin: 1em 0; padding: 1em; background: #eee; 
+	-moz-border-radius: 	15px;
+    -webkit-border-radius: 	15px; 
+    -khtml-border-radius: 	15px; 
+    border-radius: 			15px; }
+.media a:link {  }
+.media { padding-left: 20px; background: url(music.png) no-repeat 0 0; }
+.external { font-size: 85%; }
+.paper { background-color: #eaeaff; }
+.ascap { background-color: #ffeaff; }

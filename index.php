@@ -1,0 +1,5 @@
+Directory indexing is forbidden.
+<?
+
+
+?>
